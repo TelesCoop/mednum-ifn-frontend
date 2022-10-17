@@ -1,0 +1,8 @@
+node_modules
+.idea
+.nuxt
+yarn.lock
+.DS_STORE
+yarn-error.log
+/dist
+.env
